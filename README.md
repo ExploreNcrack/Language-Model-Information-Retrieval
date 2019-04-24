@@ -1,4 +1,4 @@
-# Bonus Assignment (Language Model Ranking)
+# Language Model Ranking
 ## Written by: [Zhaozhen Liang(zhaozhen)](https://github.com/ExploreNcrack)
 ## Goal
 The Goal of this project is to make a mini search engine program over a movie folder using **language model**(which contains 2000 file/document about movie reviews).
