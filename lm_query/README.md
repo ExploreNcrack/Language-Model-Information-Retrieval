@@ -7,7 +7,7 @@ Four arguments are needed:
 - 3. [y/n] indicating whether to print the scores
 - 4. followed by a list of keywords
 ```
-> python3 lm_query.py [path] [k] "[whitespace-separated multi-term query]"
+> python3 lm_query.py [path] [k] [y/n] "[whitespace-separated multi-term query]"
 ```
 example: **python3 lm_query.py [path] [k] [y/n] "[whitespace-separated multi-term query]"**
 
