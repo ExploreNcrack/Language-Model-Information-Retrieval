@@ -2,7 +2,7 @@
 ## Written by: [Zhaozhen Liang(zhaozhen)](https://github.com/ExploreNcrack)
 ## Goal
 The Goal of this project is to make a mini search engine program over a movie folder using **language model**(which contains 2000 file/document about movie reviews).
-</br></br>**"Instead of overtly modeling the probability P(R=1|q,d) of relevance of a document d to query q, as in the as in the traditional probabilistic approach to IR, the basic language modeling approach instead builds a probabilistic language model Md from each document d, and ranks documents based on the probability of the model generating the query: P(q|Md)."**[p237,Introduction to Information Retrieval, By Christopher D. Manning, Prabhakar Raghavan & Hinrich Schütze © 2008 Cambridge University Press.]
+</br></br>**"Instead of overtly modeling the probability P(R=1|q,d) of relevance of a document d to query q, as in the traditional probabilistic approach to IR, the basic language modeling approach instead builds a probabilistic language model Md from each document d, and ranks documents based on the probability of the model generating the query: P(q|Md)."**[p237,Introduction to Information Retrieval, By Christopher D. Manning, Prabhakar Raghavan & Hinrich Schütze © 2008 Cambridge University Press.]
 </br></br>**Intuition**
 </br>Good queries: contain words likely appear in a relevant document
 </br>**Key Idea**
