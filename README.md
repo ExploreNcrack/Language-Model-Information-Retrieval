@@ -25,5 +25,5 @@ run the script by:
 ```
 ## Parts
 There are two parts in this project.
-</br>The **first part** is [**create_index**](https://github.com/UAlberta-CMPUT397-W19/cmput397-w19-bonus-ExploreNcrack/tree/master/create_index): which take in the input source directory(which contain bunch of files/documents) and collect some statistic information that is needed for later ranking computations.
-</br>The **second part** is [**lm_query**](https://github.com/UAlberta-CMPUT397-W19/cmput397-w19-bonus-ExploreNcrack/tree/master/lm_query)(language model query): which uses the index statistic information(language model) that is collected in part1(create index) to perform the language model ranking.
+</br>The **first part** is [**create_index**](https://github.com/ExploreNcrack/Language-Model-Information-Retrieval/tree/master/create_index): which take in the input source directory(which contain bunch of files/documents) and collect some statistic information that is needed for later ranking computations.
+</br>The **second part** is [**lm_query**](https://github.com/ExploreNcrack/Language-Model-Information-Retrieval/tree/master/lm_query)(language model query): which uses the index statistic information(language model) that is collected in part1(create index) to perform the language model ranking.
