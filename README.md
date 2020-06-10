@@ -6,7 +6,7 @@ The Goal of this project is to make a mini search engine program over a movie fo
 </br></br>**Intuition**
 </br>Good queries: contain words likely appear in a relevant document
 </br>**Key Idea**
-</br>The language modeling approach to IR directly models that idea: a document is a good match to a query if the document model is likely yo generate the query, which will in turn happen if the document contains the query words often.
+</br>The language modeling approach to IR directly models that idea: a document is a good match to a query if the document model is likely to generate the query, which will in turn happen if the document contains the query words often.
 The Basic language modeling approach builds a probilistic language model Md from each document d, and ranks documents based on the probability of the model generating the query: P(q|Md). 
 </br>
 </br>**Reference**
